@@ -1,0 +1,10 @@
+labels: C:\Users\Admin\Downloads\sujit\train\labels
+names:
+- helmet
+- Without Helmet
+nc: 2
+test: C:\Users\Admin\Downloads\sujit\test\images
+test_labels: C:\Users\Admin\Downloads\sujit\test\labels
+train: C:\Users\Admin\Downloads\sujit\train\images
+val: C:\Users\Admin\Downloads\sujit\valid\images
+val_labels: C:\Users\Admin\Downloads\sujit\valid\labels
